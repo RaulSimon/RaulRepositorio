@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExercicioComplementar6
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar6
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             String nomeMocas = "Continue",AuxNome="";
             double alturaMocas,auxAltura=0;

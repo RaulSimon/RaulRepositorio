@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosComplementaresUnidade6
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar1
     {
         static void Main(string[] args)
         {

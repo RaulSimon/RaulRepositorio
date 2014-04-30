@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExercicioComplementar5
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar5
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             int AuxVet=99;
             int[] vetNumero = new int[AuxVet];

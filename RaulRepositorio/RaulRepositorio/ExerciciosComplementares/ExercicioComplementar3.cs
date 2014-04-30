@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio3Complementar
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar3
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             String sexo;
             double altura;

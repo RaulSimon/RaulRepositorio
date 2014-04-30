@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exe10
+namespace Unidade6.ExerciciosDeFixaçao
 {
-    class Program
+    class Exercicio10
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
                String[] NomeProduto = new String[4];
             double[] preco = new double[4];
@@ -30,4 +30,4 @@ namespace exe10
         }
         }
     }
-}
+

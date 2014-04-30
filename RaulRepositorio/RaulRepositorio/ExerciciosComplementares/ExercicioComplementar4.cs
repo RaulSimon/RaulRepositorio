@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExercicioComplementar4
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar4
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Random r = new Random();
             int inter, gremio;

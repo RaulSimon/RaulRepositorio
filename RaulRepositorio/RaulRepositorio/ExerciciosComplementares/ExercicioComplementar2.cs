@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio2Complementar
+namespace Unidade6.ExerciciosComplementares
 {
-    class Program
+    class ExercicioComplementar2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Console.WriteLine("insira senha: ");
             String senha = Console.ReadLine();
