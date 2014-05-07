@@ -8,7 +8,7 @@ namespace Unidade6.ExerciciosComplementares
 {
     class ExercicioComplementar1
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Quantas maças: ");
             double maca = double.Parse(Console.ReadLine());
