@@ -8,7 +8,7 @@ namespace Unidade6.ExerciciosComplementares
 {
     class ExercicioComplementar8
     {
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
             Console.WriteLine("Digite o texto: ");
             string texto = Console.ReadLine();
