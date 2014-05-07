@@ -48,6 +48,7 @@
     <Compile Include="ExerciciosComplementares\ExercicioComplementar4.cs" />
     <Compile Include="ExerciciosComplementares\ExercicioComplementar5.cs" />
     <Compile Include="ExerciciosComplementares\ExercicioComplementar6.cs" />
+    <Compile Include="ExerciciosComplementares\ExercicioComplementar8.cs" />
     <Compile Include="ExerciciosDeFixaçao\Class1.cs" />
     <Compile Include="ExerciciosDeFixaçao\Exercicio10.cs" />
     <Compile Include="ExerciciosDeFixaçao\Exercicio8.cs" />

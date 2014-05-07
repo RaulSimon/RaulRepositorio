@@ -10,25 +10,27 @@ namespace Unidade6.ExerciciosComplementares
     {
         static void Main6(string[] args)
         {
-            String nomeMocas = "Continue",AuxNome="";
-            double alturaMocas,auxAltura=0;
-            int cont=0;
+            String nomeMocas = "Continue", AuxNome = "";
+            double alturaMocas, auxAltura = 0;
+            int cont = 0;
 
 
-            while(nomeMocas != "FIM"){
+            while (nomeMocas != "FIM")
+            {
                 Console.WriteLine("Nome: ");
                 nomeMocas = Console.ReadLine();
 
                 Console.WriteLine(" Altura: ");
                 alturaMocas = double.Parse(Console.ReadLine());
-                if(auxAltura< alturaMocas){
+                if (auxAltura < alturaMocas)
+                {
                     auxAltura = alturaMocas;
                     AuxNome = nomeMocas;
 
                 }
                 cont++;
             }
-            Console.WriteLine("Nome moça mais alta {0} com a altura de {1}",AuxNome,auxAltura);
+            Console.WriteLine("Nome moça mais alta {0} com a altura de {1}", AuxNome, auxAltura);
             Console.WriteLine("Total de moças que participaram foi " + cont);
             Console.ReadKey();
         }

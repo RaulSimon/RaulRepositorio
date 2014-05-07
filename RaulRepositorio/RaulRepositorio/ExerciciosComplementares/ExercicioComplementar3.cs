@@ -17,12 +17,15 @@ namespace Unidade6.ExerciciosComplementares
             sexo = Console.ReadLine();
             Console.WriteLine("Altura: ");
             altura = double.Parse(Console.ReadLine());
-            
-            if(sexo.ToLower() == "feminino"){
-               
-               altura = (62.1 * altura) - 44.7; 
-            } else if(sexo.ToLower() == "masculino"){
-                altura = (72.7 * altura) - 58; 
+
+            if (sexo.ToLower() == "feminino")
+            {
+
+                altura = (62.1 * altura) - 44.7;
+            }
+            else if (sexo.ToLower() == "masculino")
+            {
+                altura = (72.7 * altura) - 58;
             }
             Console.WriteLine("Seu peso ideal: " + altura);
             Console.ReadKey();

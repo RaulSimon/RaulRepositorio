@@ -10,12 +10,12 @@ namespace Unidade6.ExerciciosComplementares
     {
         static void Main5(string[] args)
         {
-            int AuxVet=99;
+            int AuxVet = 99;
             int[] vetNumero = new int[AuxVet];
             int[] vetIdade = new int[AuxVet];
             double[] vetLaranjasColhidas = new double[AuxVet];
             String Condicao = "Continue";
-            for (int i = 0; i < vetLaranjasColhidas.Length; i ++ )
+            for (int i = 0; i < vetLaranjasColhidas.Length; i++)
             {
                 Console.WriteLine("Numero Trabalhador: ");
                 vetNumero[i] = int.Parse(Console.ReadLine());
@@ -51,11 +51,11 @@ namespace Unidade6.ExerciciosComplementares
                 Console.WriteLine("O Trabalhador {0} receberá {1} ", vetNumero[i], vetLaranjasColhidas[i]);
 
                 Console.WriteLine("Deseja cadastrar mais um trabalhador?");
-                
+
                 Condicao = Console.ReadLine();
                 if (Condicao == "Pause") { break; }
             }
-            
+
             Console.ReadKey();
         }
     }
