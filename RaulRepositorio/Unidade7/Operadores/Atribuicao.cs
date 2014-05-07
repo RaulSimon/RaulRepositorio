@@ -8,7 +8,7 @@ namespace Unidade7.Operadores
 {
     class Atribuicao
     {
-        static void Main(String[] args){
+        static void Main1(String[] args){
             double uan = 1;
             uan += 2;
             uan -= 4;

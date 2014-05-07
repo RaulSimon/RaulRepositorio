@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Operadores\Atribuicao.cs" />
+    <Compile Include="Operadores\Decremento.cs" />
+    <Compile Include="Operadores\OperadoresTernarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
