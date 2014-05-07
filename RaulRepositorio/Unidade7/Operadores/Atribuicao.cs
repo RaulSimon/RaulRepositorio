@@ -20,7 +20,7 @@ namespace Unidade7.Operadores
            if(uan > 10 && uan < 100){
                Console.WriteLine("lol");
            }else if(uan > 10 || uan <100){
-               Console.WriteLine("sdahudusa");
+               Console.WriteLine("sdahdadaudusa");
            }
             Console.WriteLine("Valor do uan: " + uan);
             Console.ReadKey();
