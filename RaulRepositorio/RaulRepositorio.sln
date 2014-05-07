@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade6", "RaulRepositorio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade7", "Unidade7\Unidade7.csproj", "{0B746BA3-A848-454A-A8D2-41FA3BBFB9C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedindoAFebreV", "MedindoAFebreV\MedindoAFebreV.csproj", "{3E0C2459-FA00-4856-AF82-3CF934583AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B746BA3-A848-454A-A8D2-41FA3BBFB9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B746BA3-A848-454A-A8D2-41FA3BBFB9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B746BA3-A848-454A-A8D2-41FA3BBFB9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0C2459-FA00-4856-AF82-3CF934583AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0C2459-FA00-4856-AF82-3CF934583AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0C2459-FA00-4856-AF82-3CF934583AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0C2459-FA00-4856-AF82-3CF934583AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
