@@ -16,7 +16,7 @@ namespace Unidade7.ExercicioFixaçao
             for (int i = 0; i < aux.Length; i++)
             {
                  Console.Write(aux[i]);
-                for (int j = 1; j < aux.Length; j++)
+                for (int j = 4; j < aux.Length; j--)
                 {
                     
                     Console.Write(aux[j]);
