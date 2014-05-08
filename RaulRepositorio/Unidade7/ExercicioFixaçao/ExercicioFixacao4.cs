@@ -10,7 +10,7 @@ namespace Unidade7.ExercicioFixaçao
     {
         static void Main(String[] args)
         {
-            String palavra= "1234";
+            String palavra= "12345";
             char[] aux = palavra.ToCharArray();
             Console.WriteLine(palavra);
             for (int i = 0; i < aux.Length; i++)
