@@ -15,7 +15,7 @@ namespace Unidade7.Operadores
             d = 10;
             c = 2;
             c = c == d ? 10 : 100; 
-            string a = b == "lol" ? "true" : "false";
+            string a = b == "lolll" ? "true" : "false";
  
         }
     }
