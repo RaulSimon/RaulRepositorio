@@ -11,7 +11,8 @@ namespace Unidade8.Repeticao
         static void Main(String[] args)
         {
            // imprime100numeros();
-            imprime100MenosMutiplosDe3();
+            //imprime100MenosMutiplosDe3();
+            MaiorNumeroInteiro();
             Console.ReadKey();
         }
 
@@ -39,6 +40,18 @@ namespace Unidade8.Repeticao
                 {
                     Console.WriteLine(i);
                 }
+            }
+        }
+
+        public static void MaiorNumeroInteiro()
+        {
+            int maior = 999999999;
+            Console.WriteLine(maior);
+            while (maior > 100)
+            {
+                maior = maior/2;
+                Console.WriteLine(maior);
+
             }
         }
     }
