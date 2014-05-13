@@ -45,7 +45,7 @@ namespace Unidade8.Repeticao
 
         public static void MaiorNumeroInteiro()
         {
-            int maior = 999999999;
+            int maior = 2147483647;
             Console.WriteLine(maior);
             while (maior > 100)
             {
