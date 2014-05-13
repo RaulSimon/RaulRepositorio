@@ -10,7 +10,8 @@ namespace Unidade8.Repeticao
     {
         static void Main(String[] args)
         {
-            imprime100numeros();
+           // imprime100numeros();
+            imprime100MenosMutiplosDe3();
             Console.ReadKey();
         }
 
@@ -22,6 +23,22 @@ namespace Unidade8.Repeticao
             {
                 
                 Console.WriteLine(i);
+            }
+        }
+
+        public static void imprime100MenosMutiplosDe3()
+        {
+            for (int i = 0; i < 100; i++)
+            {
+                if (i%3 == 0)
+                {
+                    continue;
+                    
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                }
             }
         }
     }
