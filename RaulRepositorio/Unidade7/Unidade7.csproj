@@ -45,6 +45,7 @@
     <Compile Include="ExercicioFixaçao\ExercicioFixacao2.cs" />
     <Compile Include="ExercicioFixaçao\ExercicioFixacao3.cs" />
     <Compile Include="ExercicioFixaçao\ExercicioFixacao4.cs" />
+    <Compile Include="ExercicioFixaçao\ExercicioFixacao5.cs" />
     <Compile Include="Operadores\Atribuicao.cs" />
     <Compile Include="Operadores\Decremento.cs" />
     <Compile Include="Operadores\OperadoresTernarios.cs" />

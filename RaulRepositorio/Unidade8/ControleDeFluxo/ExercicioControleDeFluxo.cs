@@ -9,7 +9,7 @@ namespace Unidade8.ControleDeFluxo
 {
     internal class ExercicioControleDeFluxo
     {
-        private static void Main(String[] args)
+        private static void Main1(String[] args)
         {
             Console.WriteLine(NotaAluno());
             Console.WriteLine(VerificaValorProduto("Maio", 0.6));

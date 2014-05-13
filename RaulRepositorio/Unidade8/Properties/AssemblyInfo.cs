@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Exee8")]
+[assembly: AssemblyTitle("Unidade8")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Exee8")]
+[assembly: AssemblyProduct("Unidade8")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e120b779-6a9d-4772-83ff-09bc80ad0534")]
+[assembly: Guid("9f6b4a57-17a0-49a4-bb5f-3b8547eaebfe")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@ namespace Unidade7.ExercicioFixaçao
 {
     class ExercicioFixacao4
     {
-        static void Main(String[] args)
+        static void Main4(String[] args)
         {
             String palavra= "12345";
             char[] aux = palavra.ToCharArray();
