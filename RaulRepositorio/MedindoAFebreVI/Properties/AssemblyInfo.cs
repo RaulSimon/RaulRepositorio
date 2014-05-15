@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Exercicio3Complementar")]
+[assembly: AssemblyTitle("MedindoAFebreVI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Exercicio3Complementar")]
+[assembly: AssemblyProduct("MedindoAFebreVI")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("71da9e86-6bc8-46e2-8312-61b05956ecbf")]
+[assembly: Guid("8bc0a94e-9135-44e7-92fc-68706baf2be9")]
 
 // Version information for an assembly consists of the following four values:
 //

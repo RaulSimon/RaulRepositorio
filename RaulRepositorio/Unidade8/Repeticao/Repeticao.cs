@@ -9,7 +9,7 @@ namespace Unidade8.Repeticao
 {
     class Repeticao
     {
-        static void Main(String[] args)
+        static void Main1(String[] args)
         {
             //  imprime100numeros();
             //imprime100MenosMutiplosDe3();
