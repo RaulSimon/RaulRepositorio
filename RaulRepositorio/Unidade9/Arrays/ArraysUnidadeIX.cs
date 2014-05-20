@@ -20,7 +20,7 @@ namespace Unidade9.Arrays
             Console.ReadKey();
         }
        public static Random r = new Random();
-        private int teste=00000;
+        private int teste=000000;
         public static void VetorDe10()
         {
             int array;
