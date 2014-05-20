@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arrays\ArraysUnidadeIX.cs" />
+    <Compile Include="Arrays\Complementar\ExerciciosComplementares.cs" />
+    <Compile Include="Arrays\Fixacao\ArraysUnidadeIX.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

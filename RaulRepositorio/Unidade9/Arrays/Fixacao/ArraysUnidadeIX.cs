@@ -8,7 +8,7 @@ namespace Unidade9.Arrays
 {
     class ArraysUnidadeIX
     {
-        static void Main()
+        static void Main1()
         {
             //VetorDe10();
             //arrayCrescente();
