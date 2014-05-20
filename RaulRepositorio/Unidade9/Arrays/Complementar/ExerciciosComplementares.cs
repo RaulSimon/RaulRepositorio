@@ -225,7 +225,7 @@ namespace Unidade9.Arrays.Complementar
                 {
                     Console.WriteLine("Jogador {0} nao ganhou", i);
                 }
-                contador = 0;
+                contador = 0 ;
             }
         }
 
