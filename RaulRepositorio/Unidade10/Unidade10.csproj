@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MetodosComplementares\ExerciciosComplementares.cs" />
     <Compile Include="Metodos\ExerciciosFixacao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

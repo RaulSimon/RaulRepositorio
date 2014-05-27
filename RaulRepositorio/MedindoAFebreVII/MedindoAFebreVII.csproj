@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5B5A9D2E-0224-45DF-8AFB-07B768095431}</ProjectGuid>
+    <ProjectGuid>{FB36760A-8182-4775-ADC1-F69C5AB3935A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExercicioComplementar5</RootNamespace>
-    <AssemblyName>ExercicioComplementar5</AssemblyName>
+    <RootNamespace>MedindoAFebreVII</RootNamespace>
+    <AssemblyName>MedindoAFebreVII</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

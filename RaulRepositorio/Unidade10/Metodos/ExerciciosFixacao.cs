@@ -8,7 +8,7 @@ namespace Unidade10.Metodos
 {
     internal class ExerciciosFixacao
     {
-        private static void Main()
+        private static void Main1()
         {
             //Console.WriteLine(ConsumoDeCombustivel(10,100));
             //JurosComposto();
